@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="equal_width">87dp</dimen>
+    <dimen name="equal_height">98dp</dimen>
+    <dimen name="tv1_margin">64dp</dimen>
+    <dimen name="tv1_width">222dp</dimen>
+    <dimen name="tv1_height">63dp</dimen>
+    <dimen name="tv1_textsize">45sp</dimen>
+    <dimen name="tv2_width">77dp</dimen>
+    <dimen name="tv2_height">73dp</dimen>
+    <dimen name="tv2_textsize">45sp</dimen>
+    <dimen name="TV1_w">74dp</dimen>
+    <dimen name="TW1_h">64dp</dimen>
+    <dimen name="TV1_mr">10dp</dimen>
+    <dimen name="TV2_W">273dp</dimen>
+    <dimen name="TV2_H">59dp</dimen>
+    <dimen name="TV2_ME">8dp</dimen>
+</resources>
